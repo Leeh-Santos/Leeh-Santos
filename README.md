@@ -3,9 +3,9 @@
   
   <h4> - Currently hacking NASA using HTML 🛰🚀, hit me up @ELONMUSK</h4>
 
-  <h4> - Dont trust banks, crypto is future</h4>
+  <h4> - Don't trust banks, crypto is the future</h4>
 
-  <h4> - Give me some Eth for a juicy surprise (LOADING..)</h4>
+  <h4> - Drip me some Eth for a juicy surprise (LOADING..)</h4>
  </div>
   <div>
   

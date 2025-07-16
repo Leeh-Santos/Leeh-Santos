@@ -1,5 +1,5 @@
  <div>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=BhuTuka+Expanded+One&size=28&duration=1000&pause=2000&color=FF1639&multiline=true&width=700&lines=Sup+guys%2C+Welcome!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=BhuTuka+Expanded+One&size=28&duration=1000&pause=2000&color=FF1639&multiline=true&width=700&lines=Sup+fam%2C+Welcome!" alt="Typing SVG" /></a>
   
   <h4> - Currently hacking NASA using HTML 🛰🚀, hit me up @ELONMUSK</h4>
 

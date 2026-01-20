@@ -3,7 +3,7 @@
   
   <h4> - Don't trust Banks or Big Private servers, crypto is the future</h4>
 
-  <h4> - Drip me some Eth for a juicy surprise (LOADING, currently only on testnet)-------> https://money-bagger.web.app/ </h4>
+  <h4> - Drip me some Eth for a juicy surprise -------> https://brabomarkets.com/ </h4>
  </div>
   <div>
   

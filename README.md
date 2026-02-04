@@ -1,9 +1,9 @@
  <div>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=BhuTuka+Expanded+One&size=28&duration=1000&pause=2000&color=FF1639&multiline=true&width=700&lines=Sup+fam%2C+Welcome!" alt="Typing SVG" /></a>
   
-  <h4> - Don't trust Banks or Big Private servers, crypto is the future</h4>
+  <h4> - Don't trust Banks or Big Private servers, <del>crypto<del> ownership is the future</h4>
 
-  <h4> - Drip me some Eth for a juicy surprise -------> https://brabomarkets.com/ </h4>
+  <h4> - Drip some Eth for a juicy surprise -------> https://brabomarkets.com/ </h4>
  </div>
   <div>
   
